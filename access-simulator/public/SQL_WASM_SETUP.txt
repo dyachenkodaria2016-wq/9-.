@@ -1,0 +1,3 @@
+Після npm install скопіюйте node_modules/sql.js/dist/sql-wasm.wasm у public/sql-wasm.wasm.
+Команда: cp node_modules/sql.js/dist/sql-wasm.wasm public/sql-wasm.wasm (macOS/Linux)
+Windows PowerShell: Copy-Item node_modules/sql.js/dist/sql-wasm.wasm public/sql-wasm.wasm
